@@ -64,6 +64,14 @@ The dashboard contains two pages:
 
 ### Page 1 — Toronto Rental Market Overview
 
+![Dashboard Page 1](images/dashboard_page1.png)
+
+### Page 2 — Detailed Analysis
+
+![Dashboard Page 2](images/dashboard_page2.png)
+
+### Page 1 — Toronto Rental Market Overview
+
 - Average 2-Bedroom Rent
 - Reported Rent Growth
 - Vacancy Rate

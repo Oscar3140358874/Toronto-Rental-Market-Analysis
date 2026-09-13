@@ -64,11 +64,11 @@ The dashboard contains two pages:
 
 ### Page 1 — Toronto Rental Market Overview
 
-![Dashboard Page 1](images\image1.png)
+![Dashboard Page 1](images/image1.png)
 
 ### Page 2 — Detailed Analysis
 
-![Dashboard Page 2](images\image2.png)
+![Dashboard Page 2](images/image2.png)
 
 ### Page 1 — Toronto Rental Market Overview
 
